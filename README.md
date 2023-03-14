@@ -1,7 +1,4 @@
-# RESTful API Node Typescript Server Airedify
-
-[![Node.js CI](https://github.com/saisilinus/node-express-mongoose-typescript-airedify/actions/workflows/node.js.yml/badge.svg)](https://github.com/saisilinus/node-express-mongoose-typescript-airedify/actions/workflows/node.js.yml)
-[![codecov](https://codecov.io/gh/saisilinus/node-express-mongoose-typescript-airedify/branch/master/graph/badge.svg?token=UYJAL9KTMD)](https://codecov.io/gh/saisilinus/node-express-mongoose-typescript-airedify)
+# RESTful API Node Typescript Server For Airedify
 
 By running a single command, you will get a production-ready Node.js TypeScript app installed and fully configured on your machine. The app comes with many built-in features, such as authentication using JWT, request validation, unit and integration tests, continuous integration, docker support, API documentation, pagination, etc. For more details, check the features list below.
 
