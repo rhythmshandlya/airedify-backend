@@ -485,16 +485,3 @@ To modify the ESLint configuration, update the `.eslintrc.json` file. To modify 
 To prevent a certain file or directory from being linted, add it to `.eslintignore` and `.prettierignore`.
 
 To maintain a consistent coding style across different IDEs, the project contains `.editorconfig`
-
-## Contributing
-
-Contributions are more than welcome! Please check out the [contributing guide](CONTRIBUTING.md).
-
-## Inspirations
-
-- [hagopj13/node-express-airedify](https://github.com/hagopj13/node-express-airedify.git)
-
-## License
-
-[MIT](LICENSE)
-# airedify-backend
